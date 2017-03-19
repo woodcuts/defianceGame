@@ -1,0 +1,28 @@
+PUZZLE GAME
+grid
+you start with 4 green blocks and other blocks light up as you shift, the furthest opposite
+direction block of where you move, the block will no longer be green, because you are "moving".
+
+there are walls that you cannot traverse or blocks that cause penalties
+
+you have to do jumps over a space of a single block and you "lose" a controlled block
+then you need to either solve a puzzle to get that block back or find another green
+"controllable" block in order to complete the level
+
+
+SCARY GAME
+pipe crawler, 2d puzzle, have to work your way around patrolling monsters
+if a monster finds you, you can't escape by going back, depends on if there is a loop
+
+
+DRIVING GAME
+courses to follow, not like temple runner
+mostly straight forward
+crazy hazards that can throw you off
+car can take damage
+trippy-ish art style
+
+BLUHBLUHBLUHBLUHBLUH
+
+
+
